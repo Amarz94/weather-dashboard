@@ -4,7 +4,7 @@
 
 ## Project overview      
 
-![](assets/images/SS.JPG)
+![](assets/Images/SS.JPG)
 
 
 ### To create a coding formate for our website that is up to accessibilty standards
