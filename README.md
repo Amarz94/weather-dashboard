@@ -1,10 +1,10 @@
 
-# Horiseon Social Solution Services
+# Weather Dashboard
 
 
 ## Project overview      
 
-![](assets/images/01-html-css-git-homework-demo.png)
+![](assets/images/SS.JPG)
 
 
 ### To create a coding formate for our website that is up to accessibilty standards
