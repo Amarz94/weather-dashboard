@@ -91,7 +91,8 @@ function renderHistory() {
       historyItem.setAttribute("class", "form-control d-block bg-white");
       historyItem.setAttribute("value", searchHistory[i]);
       historyItem.addEventListener("click",function() {
-          getWeather(historyItem.value);
+      console.log(historyItem.value)
+          getWeather(this.value);
       })
       pastSearch.append(historyItem);
   }

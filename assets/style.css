@@ -1,0 +1,27 @@
+p {
+    font-weight: bolder;
+}
+
+#city-name {
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+
+.navbar {
+    padding: 50px;
+    background-image: url(https://t4.ftcdn.net/jpg/02/40/24/73/360_F_240247304_b8OlrQSQIqrXnuaUp2hhTGU1ozobtP9K.jpg);
+    background-size: contain;
+
+}
+
+.navbar-brand {
+    margin-top: 30px;
+    font-size: 75px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.forecast {
+    background-color: rgba(30, 192, 204, 0.808);
+}
+
